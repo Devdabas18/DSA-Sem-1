@@ -21,3 +21,11 @@ int main() {
         printf("Not applicable");
     }
 }
+
+/*
+Tool output
+101
+Not applicable
+
+=== Code Execution Successful ===
+*/
