@@ -12,3 +12,14 @@ int main () {
         printf("Odd");
     }
 }
+
+/*
+Tool output
+/tmp/HohVPDvRRl.o
+4
+6
+8
+Even
+
+=== Code Execution Successful ===
+*/
