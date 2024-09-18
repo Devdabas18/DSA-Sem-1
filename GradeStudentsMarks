@@ -1,0 +1,23 @@
+#include <stdio.h>
+int main() {
+    int m;
+    scanf("%d" ,&m);
+    if((m>85)&&(m<=100)) {
+        printf("Grade A");
+    }
+    else if((m>65)&&(m<=85)) {
+        printf("Grade B");
+    }
+    else if ((m>40)&&(m<=65)) {
+        printf("Grade c");
+    }
+    else if((m>25)&&(m<=40)){
+        printf("Grade D");
+    }
+    else if((m>=0)&&(m<=25)){
+    printf("FAIL");
+    }
+    else {
+        printf("Not applicable");
+    }
+}
