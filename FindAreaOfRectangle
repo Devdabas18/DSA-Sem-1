@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main() {
+    int a=22;
+    int b=3;
+    int c=((a+b)*2);
+    printf("%d", c);
+}
+
+/*
+Tool Output
+50
+
+=== Code Execution Successful ===
+*?
