@@ -1,0 +1,24 @@
+#include <stdio.h>
+int main() {
+    int a,b;
+    scanf("%d" , &a);
+    printf("%d" , a);
+    scanf("%d" , &b);
+    printf("%d" , b);
+     int c=((a+b)*2);
+    printf("%d" , c);
+}
+
+/*
+Tool Output
+#include <stdio.h>
+int main() {
+    int a,b;
+    scanf("%d" , &a);
+    printf("%d" , a);
+    scanf("%d" , &b);
+    printf("%d" , b);
+     int c=((a+b)*2);
+    printf("%d" , c);
+}
+*/
